@@ -2,7 +2,7 @@
 
 - 🔭 M.S. Computer Science @ Johns Hopkins University (concentration in Machine Learning + Data Science)
 - 🌱 Python, Java, FORTRAN (throwback!)
-- 💬 Ask me about Nuclear Engineering. I am a Nuclear Safety Analysis Engineer and perform Thermal-Hydraulic Analyses.
+- 💬 Ask me about Nuclear Engineering. I am a Nuclear Safety Analysis Engineer specializing in reactor core thermal-hydraulics.
 - 📫 How to reach me: nawalnawal8@gmail.com
 
 `python`, `sklearn`, `numpy`, `pandas`, `matplotlib`, `nltk`, `beautifulsoup`
